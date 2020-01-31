@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Aplikasi Kasir Online
 image: img/mesin kasir mobile pos.jpg
 heading: Aplikasi Kasir Online
 description: >-
