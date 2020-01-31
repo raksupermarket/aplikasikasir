@@ -1,102 +1,109 @@
 ---
 title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
+image: img/mesin kasir mobile pos.jpg
+heading: Aplikasi Kasir Online
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Aplikasi kasir online retail store shop toko minimarket supermarket restoran
+  cafe kuliner.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
+    - image: img/minimarket.png
+      text: >-
+        Chrompos full touchscreen desktop offline software kasir program kasir
+        yang sangat lengkap guna menunjang pembukuan usaha mu, ini adalah
+        prioritas utama bagi yang membutuhkan system kompleks lengkap modern
+        dengan offline based.
+    - image: img/2.mesinkasironline.png
+      text: >-
+        Axcorapos terbaik digunakan dan sangat fleksibel dalam kebutuhan mu
+        offline desktop mode untuk standalone system atau dengan online web
+        based technology memungkinkan akses via smartphone android iphone mu
+        secara langsung untuk memulai pekerjaan.
+    - image: img/laporanstoreoutletshop-mesinkasironline.png
+      text: >-
+        Multi cabang punya banyak toko pastikan aplikasi kasir point of sale pos
+        online ini mendampingi pekerjaan mu, kapasitas dengan databased pada
+        pusat server office menjadikan sempurna dalam kebutuhan pembukuan dan
+        transaksi cabang cabang toko kamu dimana saja berada dalam satu
+        databased pembukuan.
+    - image: img/aplikasi mesin kasir online shop - pilihan.png
+      text: >-
+        Inilah aplikasi kasir point of sale modern dengan integrasi plus bonus
+        website online shop dual fungsi dalam kebutuhan bertransaksi dan
+        pembukuan mu, order via online shop toko online website maupun handle
+        pelanggan yang datang ke toko langsung via aplikasi meisn kasir online
+        mu.
+    - image: img/1. login software kasir gratis program kasir online.png
+      text: >-
+        Hockey simple pos solusi kebutuhan simple system dan lengkap dalam
+        kebutuhan bertransaksi dan pembukuan , serta mampunya untuk secara
+        langsung mencetak struk kasir maupun invoice faktur jual.
+    - image: img/1. login.png
+      text: >-
+        Hockeypos terbaik simple dan mudah digunakan dengan lengkap nya system
+        dan dapat kamu pilih untuk menjadi offline desktop mode maupun online
+        installasi via cloud untuk akses smartphone android iphone mu.
+    - image: img/8. order pos.png
+      text: >-
+        Aplikasi kasir keren untuk bisnis mu fokus pada penjualan lightpos
+        menyediakan fitur penjualan dengan laporan omset profit nya plus
+        mengedepankan desain display wallpaper produk pada penjualan pos nya.
+  heading: For Retail Shop
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Dukungan aplikasi terbaik untuk usaha retail shop store dengan offline
+    desktop mode dan online clouds based system dalam transaksi dan pembukuan
+    yang bisa kamu pilih sesuai dengan kebutuhan mu.
+main:
+  heading: For Resto Cafe Kuliner
+  description: >-
+    Kebutuhan akan usaha kuliner cafe resto rumah makan maka kami menyediakan
+    aplikasi dan software restoran cafe program restoran baik offline mode dan
+    online mode yang bisa kamu pilih sesuai dengan kebutuhan usaha mu.
+  image1:
+    alt: software restoran cafe rumah makan kuliner
+    image: img/7.png
+  image2:
+    alt: online shop aplikasi restoran cafe online
+    image: img/software-restoran-cafeprogram-restoran-5.jpg
+  image3:
+    alt: Program restoran cafe lengkap
+    image: img/4 software program aplikasi restoran warung rumah makan system.png
+testimonials:
+  - author: Offline applikasi
+    quote: >-
+      Gunakan offline desktop mode untuk kebutuhan lengkap resto cafe mu dan
+      stabil dalam pekerjaan nya
+  - author: Online applikasi
+    quote: >-
+      Onlinekan resto cafe mu dengan simple system dan kemudahan cek pembukuan
+      maupun melakukan transaksi secara online via smartphone mu.
+full_image: img/software aplikasi system invoice stock inventory.jpg
+pricing:
+  heading: For Office Business
+  description: >-
+    Kebutuhan terbaik untuk office dan bisnis mu dengan berbagai aplikasi
+    penunjang dan website company profile mu.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Aplikasi software invoice online
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - >-
+          Special untuk pembukuan invoice inventori dan pencatatan tender
+          project hingga outstanding piutang pelanggan.
+      plan: INVOICE
+      price: '15'
+    - description: Kebutuhan untuk akuntansi
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - >-
+          Pembukuan akuntansi dan accounting system dengan kompleks dan detail
+          guna menunjang perusahaan.
+      plan: ACCOUNTING
+      price: '30'
+    - description: Website creative modern
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - >-
+          Modern technology dalam pembuatan website untuk icon usaha mu di dunia
+          online sekaligus memperluas market perusahaan.
+      plan: WEBSITE
+      price: '15'
 ---
-
 
