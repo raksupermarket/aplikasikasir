@@ -6,13 +6,13 @@ description: >-
   aplikasi kasir online adalah solusi terbaik mu.simple lengkap dan murah !!
 image: img/bmenu.png
 ---
-Selain untuk kebutuhan mencatat pembukuan omset profit detail  dan melakukan transaksi penjualan , **aplikasi kasir online android iphone** yang bisa digunakan offline untuk kebutuhan desktop mode ini juga dapat mengakomodasi pencatatan piutang pelanggan include dengan mode cicilan atau pembayaran dari pelanggan, hal ini tentu memudahkan untuk pencatatan piutang pelanggan atau kredit pelanggan dalam kebutuhan bertransaksi nya.
+Selain untuk kebutuhan mencatat pembukuan omset profit detail  dan melakukan transaksi penjualan , **[aplikasi kasir online android iphone](https://aplikasikasir.netlify.com/post/pencatatan-credit-cicilan-pelanggan-dengan-aplikasi-ini/)** yang bisa digunakan offline untuk kebutuhan desktop mode ini juga dapat mengakomodasi pencatatan piutang pelanggan include dengan mode cicilan atau pembayaran dari pelanggan, hal ini tentu memudahkan untuk pencatatan piutang pelanggan atau kredit pelanggan dalam kebutuhan bertransaksi nya.
 
 Apa saja sih kelebihan aplikasi kasir ini ??
 
 Master based memberikan kebebasan untuk input dan mendaftarakan produk mulai dari merk grup dan kategori produk hingga produk jual , selanjutnya inventori stok management tersedia untuk kebutuhan stok dan inventori.
 
-Transaksi penjualan dengan berbagai pilihan pembayaran, penjualan umumnya tersedia adalah cash tunai saja bukan, tapi pada aplikasi ini kita bisa melakukan transaksi penjualan dengan berbagai metode pembayaran mulai dari cash tunai , card,tempo hingga **cicilan via credi**t misalnya.
+Transaksi penjualan dengan berbagai pilihan pembayaran, penjualan umumnya tersedia adalah cash tunai saja bukan, tapi pada aplikasi ini kita bisa melakukan transaksi penjualan dengan berbagai metode pembayaran mulai dari cash tunai , card,tempo hingga [**cicilan via credi**t ](https://aplikasikasir.netlify.com/post/pencatatan-credit-cicilan-pelanggan-dengan-aplikasi-ini/)misalnya.
 
 Fitur pembayaran cicilan pelanggan untuk menggunakan credit juga tersedia pada fitur pembayaran pelanggan, klik pada nama pelanggan selanjutnya lakukan input pembayaran dan system akan menampilkan detail jumlah piutang selanjutnya masukan pembayaran pelanggan dan otomatis piutang pelanggan akan berkurang menjadikan nya lebih baik dalam kebutuhan pembukuan bertransaksi via credit cicilan.
 
