@@ -8,11 +8,11 @@ image: img/2.mesinkasironline.png
 ---
 Mengapa axcora pos dibutuhkan.
 
-yap **aplikasi kasir online** ini benar benar simple dan lengkap dengan dukungan fitur expire date memudahkan dalam cek expire date produk produk , sehingga pembukuan lebih extra kompleks.
+yap [**aplikasi kasir online** ](https://aplikasikasir.netlify.com/post/expired-date-pada-aplikasi-kasir-online/)ini benar benar simple dan lengkap dengan dukungan fitur expire date memudahkan dalam cek expire date produk produk , sehingga pembukuan lebih extra kompleks.
 
 Selain itu fitur master based memudahkan dalam regristasi supplier produk dengan barcode kode plus expire date tentunya selanjutnya transaksi pembelian untuk mengisi stok guna melakukan pembelian ke supplier.
 
-Transaksi **penjualan kasir point of sale pos** untuk kebutuhan bertransaksi dengan pelanggan sekaligus mencetak struk kasir dalam kebutuhan nya.
+Transaksi **[penjualan kasir point of sale pos](https://aplikasikasir.netlify.com/post/expired-date-pada-aplikasi-kasir-online/)** untuk kebutuhan bertransaksi dengan pelanggan sekaligus mencetak struk kasir dalam kebutuhan nya.
 
 dan tak lupa rangkuman laporan laporan detail bisa kamu cek pada fitur laporan yang tersedia seperti laporan jumlah stok , laporan price list, laporan modal awal produk , laporan expire date produk , laporan pembelian , laporan penjualan, laporan omset profit pendapatan usaha mu kompleks dikemas dalam axcorapos technology ini untuk kebutuhan mu.
 
