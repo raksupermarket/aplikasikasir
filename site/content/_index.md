@@ -33,7 +33,7 @@ values:
   heading: POS HARDWARE
   text: >-
     Dukungan technology mesin kasir terbaik digunakan dalam pembukuan dan
-    bertransaksi dengan bracnh ternama untuk masa depan yang lebih baik dan awet
+    bertransaksi dengan branch ternama untuk masa depan yang lebih baik dan awet
     nya produk hardware mesin kasir kami untuk anda gunakan.
 ---
 
